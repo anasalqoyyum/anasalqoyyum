@@ -1,5 +1,3 @@
-# About Me
-
 <div align="center">
   
   [<img src="https://img.shields.io/badge/linkedin-4A4A4A?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/anasalqoyyum/)&nbsp;&nbsp;
