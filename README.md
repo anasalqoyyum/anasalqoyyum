@@ -18,6 +18,7 @@ My technical skills:
 
 - HTML - CSS: SASS, CSS-in-JS (I.e. `Styled Components`), and utility-first CSS (I.e. `Tailwind`)
 - Javascript - TypeScript: React and Node.js (Primarily `TypeScript`)
+- Native/Desktop: Electron
 - Web frameworks: Next.js, Storybook, Laravel
 - Bundlers: Webpack, Vite, esbuild (Leaning to `Vite` & `esbuild` nowadays)
 - Testing: Jest, Cypress
