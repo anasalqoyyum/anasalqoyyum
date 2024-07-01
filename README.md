@@ -25,4 +25,4 @@ My technical skills:
 - Compiled languages: Golang
 - Git, CI/CD, and static site generators (I.e. `Astro`)
 
-On fun side of things, I'm self-diagnosed with a really bad Rhythm Games addiction (Only play Rhythm Games) mostly [SDVX](https://p.eagate.573.jp/game/eacsdvx/vi/index.html), [IIDX](https://p.eagate.573.jp/game/eac2dx/infinitas/), [Arcaea](https://arcaea.lowiro.com/). Perhaps the reason why I'm addicted is because it is fun and rewarding. Also sometimes I did create some custom chart for those games in my free-time
+On fun side of things, I'm self-diagnosed with a really bad Rhythm Games addiction (only play rhythm games) mostly [SDVX](https://p.eagate.573.jp/game/eacsdvx/vi/index.html), [IIDX](https://p.eagate.573.jp/game/eac2dx/infinitas/), [Arcaea](https://arcaea.lowiro.com/). Perhaps the reason why I'm addicted is because it is fun and rewarding. Also sometimes I did create some custom chart for those games in my free-time
