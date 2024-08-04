@@ -5,9 +5,7 @@
 </div>
 
 Hey, my name is Anas Alqoyyum. I'm a Software Engineer mostly focuses on Frontend Engineer in which primarily revolves around `React` and `TypeScript`. Other than
-Frontend stuff, I also have a bit of experience in `Golang`. To be honest, I realize that I'm a bit unexposed or uneducated to a Compiled Languages, only as far as
-using it during my time as a student in University. It makes me feel a bit inferior and that's the primary reason why I decided to learn `Golang`
-(and it's been fun), hopefully in the near-future `Golang` became something that I would use as much as `TypeScript`.
+Frontend stuff, I also have a bit of experience in `Golang`.
 
 Even though my final project is revolving around Machine Learning titled **`"YOLOv4 Algorithm Implementation Based on Darknet and Optical Character Recognition on Vehicle License Plate Detection"`**. Even though it was good but I felt that it wasn't good enough and I always felt like that my effort was lacking and thinking back I could do better but what done is done. BUT, I still have a
 somewhat small interest in that field who knows maybe when I'm bored with Frontend stuff I'll move to that field. The future is unknown and filled with many possibilities.
