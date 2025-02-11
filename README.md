@@ -4,8 +4,12 @@
   
 </div>
 
-Hey, my name is Anas Alqoyyum. I'm a Software Engineer mostly focuses on Frontend Engineer in which primarily revolves around `React` and `TypeScript`. Other than
+### Hi there 👋
+
+I'm Anas Alqoyyum. I'm a Software Engineer mostly focuses on Frontend Engineer in which primarily revolves around `React` and `TypeScript`. Other than
 Frontend stuff, I also have a bit of experience in `Golang`.
+
+## :computer: Computers
 
 Even though my final project is revolving around Machine Learning titled **`"YOLOv4 Algorithm Implementation Based on Darknet and Optical Character Recognition on Vehicle License Plate Detection"`**. Even though it was good but I felt that it wasn't good enough and I always felt like that my effort was lacking and thinking back I could do better but what done is done. BUT, I still have a
 somewhat small interest in that field who knows maybe when I'm bored with Frontend stuff I'll move to that field. The future is unknown and filled with many possibilities.
@@ -23,4 +27,14 @@ My technical skills:
 - Compiled languages: Golang
 - Git, CI/CD, and static site generators (I.e. `Astro`)
 
-On fun side of things, I'm self-diagnosed with a really bad Rhythm Games addiction (only play rhythm games) mostly [SDVX](https://p.eagate.573.jp/game/eacsdvx/vi/index.html), [IIDX](https://p.eagate.573.jp/game/eac2dx/infinitas/), [Arcaea](https://arcaea.lowiro.com/). Perhaps the reason why I'm addicted is because it is fun and rewarding. Also sometimes I did create some custom chart for those games in my free-time
+## :joystick: Video games
+
+I play various rhythm games, especially arcade ones. They are a niche genre of video games but they are a lot of fun to play mostly [SDVX](https://p.eagate.573.jp/game/eacsdvx/vi/index.html), [IIDX](https://p.eagate.573.jp/game/eac2dx/infinitas/), [Arcaea](https://arcaea.lowiro.com/). Perhaps the reason why I'm addicted is because it is fun and rewarding. Also sometimes I did create some custom chart for those games in my free-time
+
+I recommend [this video](https://www.youtube.com/watch?v=ECz-8GCVEJ0) if you want to get into rhythm games.
+
+## 💬 Socializing
+
+You can reach me on
+- Twitter [@sanaalqoyyum](https://twitter.com/sanaalqoyyum)
+- Discord **darknowns*
