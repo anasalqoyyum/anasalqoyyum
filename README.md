@@ -37,4 +37,4 @@ I recommend [this video](https://www.youtube.com/watch?v=ECz-8GCVEJ0) if you wan
 
 You can reach me on
 - Twitter [@sanaalqoyyum](https://twitter.com/sanaalqoyyum)
-- Discord **darknowns*
+- Discord **darknowns**
