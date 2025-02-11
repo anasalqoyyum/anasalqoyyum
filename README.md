@@ -27,6 +27,8 @@ My technical skills:
 - Compiled languages: Golang
 - Git, CI/CD, and static site generators (I.e. `Astro`)
 
+Most of my recent experiences are with Typescript, Golang and React. I also have a long-running background of working with PHP and Python.
+
 ## :joystick: Video games
 
 I play various rhythm games, especially arcade ones. They are a niche genre of video games but they are a lot of fun to play mostly [SDVX](https://p.eagate.573.jp/game/eacsdvx/vi/index.html), [IIDX](https://p.eagate.573.jp/game/eac2dx/infinitas/), [Arcaea](https://arcaea.lowiro.com/). Perhaps the reason why I'm addicted is because it is fun and rewarding. Also sometimes I did create some custom chart for those games in my free-time
