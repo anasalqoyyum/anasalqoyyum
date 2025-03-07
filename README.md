@@ -7,7 +7,7 @@
 ### Hi there 👋
 
 I'm Anas Alqoyyum. I'm a Software Engineer mostly focuses on Frontend Engineer in which primarily revolves around `React` and `TypeScript`. Other than
-Frontend stuff, I also have a bit of experience in `Golang`.
+Frontend stuff, I also have a bit of experience in `Golang` and `Python`.
 
 ## :computer: Computers
 
@@ -30,7 +30,7 @@ Most of my recent experiences are with Typescript, Golang and React. I also have
 
 ## :joystick: Video games
 
-I play various rhythm games, especially arcade ones. They are a niche genre of video games but they are a lot of fun to play mostly [SDVX](https://p.eagate.573.jp/game/eacsdvx/vi/index.html), [IIDX](https://p.eagate.573.jp/game/eac2dx/infinitas/), [Arcaea](https://arcaea.lowiro.com/). Perhaps the reason why I'm addicted is because it is fun and rewarding. Also sometimes I did create some custom chart for those games in my free-time
+I play various rhythm games, especially arcade ones. They are a niche genre of video games but they are a lot of fun to play mostly [SDVX](https://p.eagate.573.jp/game/eacsdvx/vi/index.html), [IIDX](https://p.eagate.573.jp/game/eac2dx/infinitas/), [Arcaea](https://arcaea.lowiro.com/). Perhaps the reason why I really dig it is because it is fun and rewarding. Also sometimes I did create some custom chart for those games in my free-time
 
 I recommend [this video](https://www.youtube.com/watch?v=ECz-8GCVEJ0) if you want to get into rhythm games.
 
